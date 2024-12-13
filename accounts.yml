@@ -1,0 +1,11 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome accounts API"
+  contactDetails:
+    name: "develo"
+    email: "develo@gmail.com"
+  onCallSupport:
+    -(+84)123456789

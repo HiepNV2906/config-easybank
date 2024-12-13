@@ -1,0 +1,11 @@
+
+build:
+  version: 1.0
+
+cards:
+  message: "Welcome cards API PROD"
+  contactDetails:
+    name: "cardsPROD"
+    email: "cardsPROD@gmail.com"
+  onCallSupport:
+    -(+84)1234567890prod

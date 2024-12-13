@@ -1,0 +1,11 @@
+
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome cards API"
+  contactDetails:
+    name: "cards"
+    email: "cards@gmail.com"
+  onCallSupport:
+    -(+84)1234567890

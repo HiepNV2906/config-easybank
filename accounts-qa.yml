@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome accounts API QA"
+  contactDetails:
+    name: "QA"
+    email: "qa@gmail.com"
+  onCallSupport:
+    -(+qa)123456789

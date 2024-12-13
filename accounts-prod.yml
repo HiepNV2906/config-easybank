@@ -1,0 +1,11 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome accounts API PROD"
+  contactDetails:
+    name: "prod"
+    email: "prod@gmail.com"
+  onCallSupport:
+    -(+prod)123456789

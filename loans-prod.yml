@@ -1,0 +1,11 @@
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome loans API PROD"
+  contactDetails:
+    name: "loansPROD"
+    email: "loanspro@gmail.com"
+  onCallSupport:
+    - (+84)2345678910

@@ -1,0 +1,11 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome loans API"
+  contactDetails:
+    name: "loans"
+    email: "loans@gmail.com"
+  onCallSupport:
+    - (+84)2345678910

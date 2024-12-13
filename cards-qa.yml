@@ -1,0 +1,11 @@
+
+build:
+  version: 2.0
+
+cards:
+  message: "Welcome cards API QA"
+  contactDetails:
+    name: "cardsQA"
+    email: "cardsQA@gmail.com"
+  onCallSupport:
+    -(+84)1234567890qa

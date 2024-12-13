@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome loans API QA"
+  contactDetails:
+    name: "loansQA"
+    email: "loansqa@gmail.com"
+  onCallSupport:
+    - (+84)2345678910
