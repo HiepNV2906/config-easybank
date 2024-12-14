@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome accounts API Product"
+  message: "Welcome accounts API Product new"
   contactDetails:
     name: "prod"
     email: "{cipher}541bce04520585f699569b4bb1f11a6d3a866e88543f3ec34684ff3236d013bd"
