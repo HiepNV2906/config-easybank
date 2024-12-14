@@ -6,6 +6,6 @@ accounts:
   message: "Welcome accounts API PROD"
   contactDetails:
     name: "prod"
-    email: "prod@gmail.com"
+    email: "541bce04520585f699569b4bb1f11a6d3a866e88543f3ec34684ff3236d013bd"
   onCallSupport:
     -(+prod)123456789
