@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome loans API PROD"
+  message: "Welcome loans API Product"
   contactDetails:
     name: "loansPROD"
     email: "loanspro@gmail.com"

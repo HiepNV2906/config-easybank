@@ -3,7 +3,7 @@ build:
   version: 1.0
 
 cards:
-  message: "Welcome cards API PROD"
+  message: "Welcome cards API Product"
   contactDetails:
     name: "cardsPROD"
     email: "cardsPROD@gmail.com"
